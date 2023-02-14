@@ -1,0 +1,68 @@
+.sobre_nosotros_container{
+    padding-top: 1rem;
+    padding-bottom: 8rem;
+    padding-left:8rem;
+    padding-right:8rem;
+}
+
+.sobre_nosotros__titulo {
+    margin-left:20px;
+    color: var(--fuente-ceniza-oscuro);
+    font-weight: 700;
+    font-size: 1.5rem;
+    font-family: var(--montserrat);
+    text-transform: uppercase;
+    margin-bottom: 1.25rem;
+}
+
+.sobre_nosotros__texto {
+    margin-left:20px;
+    line-height: normal;
+    margin-bottom: 1rem;
+}
+.sobre_nosotros__texto_ultimo{
+    margin-left:20px;
+    color: rgb(78, 78, 78);
+    font-weight: bold;
+}
+
+.sobre_nosotros__plataformas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 1rem;
+}
+
+.sobre-nosotros {
+    color: var(--fuente-ceniza-oscuro);
+    font-weight: 700;
+}
+.sobre_nosotros__texto_final{
+    margin-left:20px;
+}
+.sobre_nosotros__contenido_img{
+    width:300px;
+    height:410px;
+    float:right;
+}
+.sobre_nosotros__logo_android{
+    margin-top:30px;
+    margin-left:70px;
+    margin-bottom:20px;
+
+}
+.sobre_nosotros__logo_blackberry{
+    margin-top:30px;
+    margin-left:70px;
+    margin-bottom:25px;
+}
+.sobre_nosotros__logo_apple{
+    margin-top:30px;
+    margin-left:70px;
+    margin-bottom:25px;
+}
+.sobre_nosotros__logo_windows{
+    margin-top:30px;
+    margin-left:70px;
+    margin-bottom:25px;
+}

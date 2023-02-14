@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background:fixed; 
+    align-items: center;
+    position: absolute;
+    width: 100%;
+    box-sizing: border-box;
+} 
+
+.head__logo {
+    display: flex;
+     width: 100px;
+     height: 100px;
+    top: 0px;
+}
+
+
+.head__navegacion {
+    color: white;
+}
+
+.head__enlace {
+    display: inline-block;
+    padding-right: 19px;
+    left: 18px;
+    top: 0px;
+}

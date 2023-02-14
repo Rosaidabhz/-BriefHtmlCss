@@ -1,0 +1,44 @@
+.llamada  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--background-blanco);
+    text-align: center;
+    background-image: url(../img/bg-intro.jpg);
+    background-color: var(--background-llamada-mobile);
+    background-position: center;
+    padding-top: 12.25rem;
+    padding-bottom: 2.5rem;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.llamada__titulo {
+    font-family: var(--montserrat);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 52px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.llamada__texto {
+width: 538px;
+height: 54px;
+left: 243px;
+top: 216px;
+
+font-family: var(--Open Sans);
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 27px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.llamada__boton {
+    width: 100%;
+}
