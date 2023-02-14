@@ -5,6 +5,7 @@ extraido de figma mi mision fue encontrar aquellas propiedades
 o ajustes en cada archivo css para removerlas, agregarlas, cam-
 biarlas y asi quedar igual al sitio Web.
 
+deploy :https://rosaidabhz.github.io/-BriefHtmlCss/
 ---------------------------------------------------------------
 
 Dentro del proceso tuve que realizar los siguientes ajustes:
